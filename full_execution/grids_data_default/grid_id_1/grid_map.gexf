@@ -1,0 +1,242 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2021-12-14">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="relation_type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="consumptionNode_2" label="consumptionNode_2" />
+      <node id="consumptionNode_4" label="consumptionNode_4" />
+      <node id="consumptionNode_6" label="consumptionNode_6" />
+      <node id="consumptionNode_11" label="consumptionNode_11" />
+      <node id="consumptionNode_3" label="consumptionNode_3" />
+      <node id="consumptionNode_5" label="consumptionNode_5" />
+      <node id="consumptionNode_30" label="consumptionNode_30" />
+      <node id="consumptionNode_7" label="consumptionNode_7" />
+      <node id="consumptionNode_9" label="consumptionNode_9" />
+      <node id="consumptionNode_15" label="consumptionNode_15" />
+      <node id="consumptionNode_8" label="consumptionNode_8" />
+      <node id="consumptionNode_18" label="consumptionNode_18" />
+      <node id="consumptionNode_10" label="consumptionNode_10" />
+      <node id="consumptionNode_12" label="consumptionNode_12" />
+      <node id="consumptionNode_26" label="consumptionNode_26" />
+      <node id="consumptionNode_20" label="consumptionNode_20" />
+      <node id="consumptionNode_14" label="consumptionNode_14" />
+      <node id="consumptionNode_17" label="consumptionNode_17" />
+      <node id="consumptionNode_13" label="consumptionNode_13" />
+      <node id="consumptionNode_22" label="consumptionNode_22" />
+      <node id="consumptionNode_19" label="consumptionNode_19" />
+      <node id="consumptionNode_16" label="consumptionNode_16" />
+      <node id="consumptionNode_31" label="consumptionNode_31" />
+      <node id="consumptionNode_25" label="consumptionNode_25" />
+      <node id="consumptionNode_21" label="consumptionNode_21" />
+      <node id="consumptionNode_23" label="consumptionNode_23" />
+      <node id="consumptionNode_24" label="consumptionNode_24" />
+      <node id="consumptionNode_29" label="consumptionNode_29" />
+      <node id="consumptionNode_1" label="consumptionNode_1" />
+      <node id="consumptionNode_27" label="consumptionNode_27" />
+      <node id="consumptionNode_28" label="consumptionNode_28" />
+      <node id="productionNode_1" label="productionNode_1" />
+    </nodes>
+    <edges>
+      <edge id="0" source="consumptionNode_2" target="consumptionNode_4">
+        <attvalues>
+          <attvalue for="0" value="distributionRelation" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="consumptionNode_2" target="consumptionNode_6">
+        <attvalues>
+          <attvalue for="0" value="distributionRelation" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="consumptionNode_2" target="consumptionNode_11">
+        <attvalues>
+          <attvalue for="0" value="distributionRelation" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="consumptionNode_4" target="consumptionNode_30">
+        <attvalues>
+          <attvalue for="0" value="distributionRelation" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="consumptionNode_6" target="consumptionNode_9">
+        <attvalues>
+          <attvalue for="0" value="distributionRelation" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="consumptionNode_6" target="consumptionNode_15">
+        <attvalues>
+          <attvalue for="0" value="distributionRelation" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="consumptionNode_3" target="consumptionNode_2">
+        <attvalues>
+          <attvalue for="0" value="distributionRelation" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="consumptionNode_3" target="consumptionNode_5">
+        <attvalues>
+          <attvalue for="0" value="distributionRelation" />
+        </attvalues>
+      </edge>
+      <edge id="8" source="consumptionNode_5" target="consumptionNode_7">
+        <attvalues>
+          <attvalue for="0" value="distributionRelation" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="consumptionNode_30" target="consumptionNode_10">
+        <attvalues>
+          <attvalue for="0" value="distributionRelation" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="consumptionNode_15" target="consumptionNode_19">
+        <attvalues>
+          <attvalue for="0" value="distributionRelation" />
+        </attvalues>
+      </edge>
+      <edge id="11" source="consumptionNode_8" target="consumptionNode_18">
+        <attvalues>
+          <attvalue for="0" value="distributionRelation" />
+        </attvalues>
+      </edge>
+      <edge id="12" source="consumptionNode_18" target="consumptionNode_16">
+        <attvalues>
+          <attvalue for="0" value="distributionRelation" />
+        </attvalues>
+      </edge>
+      <edge id="13" source="consumptionNode_10" target="consumptionNode_8">
+        <attvalues>
+          <attvalue for="0" value="distributionRelation" />
+        </attvalues>
+      </edge>
+      <edge id="14" source="consumptionNode_10" target="consumptionNode_12">
+        <attvalues>
+          <attvalue for="0" value="distributionRelation" />
+        </attvalues>
+      </edge>
+      <edge id="15" source="consumptionNode_10" target="consumptionNode_26">
+        <attvalues>
+          <attvalue for="0" value="distributionRelation" />
+        </attvalues>
+      </edge>
+      <edge id="16" source="consumptionNode_12" target="consumptionNode_9">
+        <attvalues>
+          <attvalue for="0" value="distributionRelation" />
+        </attvalues>
+      </edge>
+      <edge id="17" source="consumptionNode_12" target="consumptionNode_20">
+        <attvalues>
+          <attvalue for="0" value="distributionRelation" />
+        </attvalues>
+      </edge>
+      <edge id="18" source="consumptionNode_12" target="consumptionNode_14">
+        <attvalues>
+          <attvalue for="0" value="distributionRelation" />
+        </attvalues>
+      </edge>
+      <edge id="19" source="consumptionNode_12" target="consumptionNode_17">
+        <attvalues>
+          <attvalue for="0" value="distributionRelation" />
+        </attvalues>
+      </edge>
+      <edge id="20" source="consumptionNode_26" target="consumptionNode_1">
+        <attvalues>
+          <attvalue for="0" value="distributionRelation" />
+        </attvalues>
+      </edge>
+      <edge id="21" source="consumptionNode_14" target="consumptionNode_4">
+        <attvalues>
+          <attvalue for="0" value="distributionRelation" />
+        </attvalues>
+      </edge>
+      <edge id="22" source="consumptionNode_14" target="consumptionNode_11">
+        <attvalues>
+          <attvalue for="0" value="distributionRelation" />
+        </attvalues>
+      </edge>
+      <edge id="23" source="consumptionNode_13" target="consumptionNode_22">
+        <attvalues>
+          <attvalue for="0" value="distributionRelation" />
+        </attvalues>
+      </edge>
+      <edge id="24" source="consumptionNode_22" target="consumptionNode_21">
+        <attvalues>
+          <attvalue for="0" value="distributionRelation" />
+        </attvalues>
+      </edge>
+      <edge id="25" source="consumptionNode_19" target="consumptionNode_6">
+        <attvalues>
+          <attvalue for="0" value="distributionRelation" />
+        </attvalues>
+      </edge>
+      <edge id="26" source="consumptionNode_19" target="consumptionNode_25">
+        <attvalues>
+          <attvalue for="0" value="distributionRelation" />
+        </attvalues>
+      </edge>
+      <edge id="27" source="consumptionNode_16" target="consumptionNode_31">
+        <attvalues>
+          <attvalue for="0" value="distributionRelation" />
+        </attvalues>
+      </edge>
+      <edge id="28" source="consumptionNode_31" target="consumptionNode_17">
+        <attvalues>
+          <attvalue for="0" value="distributionRelation" />
+        </attvalues>
+      </edge>
+      <edge id="29" source="consumptionNode_25" target="consumptionNode_24">
+        <attvalues>
+          <attvalue for="0" value="distributionRelation" />
+        </attvalues>
+      </edge>
+      <edge id="30" source="consumptionNode_23" target="consumptionNode_13">
+        <attvalues>
+          <attvalue for="0" value="distributionRelation" />
+        </attvalues>
+      </edge>
+      <edge id="31" source="consumptionNode_24" target="consumptionNode_29">
+        <attvalues>
+          <attvalue for="0" value="distributionRelation" />
+        </attvalues>
+      </edge>
+      <edge id="32" source="consumptionNode_29" target="consumptionNode_27">
+        <attvalues>
+          <attvalue for="0" value="distributionRelation" />
+        </attvalues>
+      </edge>
+      <edge id="33" source="consumptionNode_27" target="consumptionNode_3">
+        <attvalues>
+          <attvalue for="0" value="distributionRelation" />
+        </attvalues>
+      </edge>
+      <edge id="34" source="consumptionNode_28" target="consumptionNode_23">
+        <attvalues>
+          <attvalue for="0" value="distributionRelation" />
+        </attvalues>
+      </edge>
+      <edge id="35" source="productionNode_1" target="consumptionNode_28">
+        <attvalues>
+          <attvalue for="0" value="productionRelation" />
+        </attvalues>
+      </edge>
+      <edge id="36" source="productionNode_1" target="consumptionNode_1">
+        <attvalues>
+          <attvalue for="0" value="productionRelation" />
+        </attvalues>
+      </edge>
+      <edge id="37" source="productionNode_1" target="consumptionNode_2">
+        <attvalues>
+          <attvalue for="0" value="productionRelation" />
+        </attvalues>
+      </edge>
+      <edge id="38" source="productionNode_1" target="consumptionNode_3">
+        <attvalues>
+          <attvalue for="0" value="productionRelation" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

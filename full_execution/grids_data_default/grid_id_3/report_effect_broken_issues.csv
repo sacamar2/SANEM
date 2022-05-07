@@ -1,0 +1,11 @@
+starting_time,rootcauses,node_ratio_effect,affected_other_nodes
+129,['consumptionNode_24'],0.0,[]
+141,['consumptionNode_32'],0.0,[]
+240,['consumptionNode_27'],0.0,[]
+473,['consumptionNode_27'],0.0,[]
+822,['consumptionNode_10'],3.0,"['consumptionNode_12', 'consumptionNode_27', 'consumptionNode_32']"
+1108,['consumptionNode_24'],0.0,[]
+1301,['consumptionNode_24'],0.0,[]
+1520,['consumptionNode_32'],0.0,[]
+1789,['consumptionNode_32'],0.0,[]
+2147,['consumptionNode_32'],0.0,[]

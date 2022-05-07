@@ -1,0 +1,11 @@
+starting_time,rootcauses,node_ratio_effect,affected_other_nodes
+200,['consumptionNode_27'],0.0,[]
+738,['consumptionNode_15'],0.0,[]
+1110,['consumptionNode_32'],1.0,['consumptionNode_22']
+1151,['consumptionNode_15'],0.0,[]
+1283,['consumptionNode_27'],0.0,[]
+1447,['consumptionNode_2'],13.0,"['consumptionNode_16', 'consumptionNode_20', 'consumptionNode_24', 'consumptionNode_25', 'consumptionNode_26', 'consumptionNode_29', 'consumptionNode_30', 'consumptionNode_31', 'consumptionNode_34', 'consumptionNode_4', 'consumptionNode_5', 'consumptionNode_6', 'consumptionNode_7']"
+1695,['consumptionNode_27'],0.0,[]
+1787,['consumptionNode_32'],1.0,['consumptionNode_22']
+1841,['consumptionNode_27'],0.0,[]
+2108,['consumptionNode_32'],1.0,['consumptionNode_22']
